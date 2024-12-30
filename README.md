@@ -39,7 +39,7 @@ Steps to Use the Tool
     In the terminal of the code editor, navigate to the folder containing your files and execute the following command:
 
     Copy code
-    streamlit run web_page.py
+    streamlit run webpage.py
     This will automatically open the application in your browser.
     If it does not open, visit the following URL manually:http://localhost:8501/
 
